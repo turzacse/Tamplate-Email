@@ -1,30 +1,30 @@
 # Fixed Interview Section HTML
 
 ## Overview
-Ei project e apni ekta email/newsletter er **Interview Section** er fixed HTML code paben.  
-Ei code ta responsive design onujayi kaj kore, ar HTML structure clean kore toiri kora hoyeche.
+This project contains the fixed HTML code for the **Interview Section** of an email or newsletter.  
+The code is designed to be responsive and clean, ensuring proper display across different devices.
 
 ## Features
-- Responsive layout jeta mobile theke desktop porjonto bhalo dekha jay.
-- Proper HTML semantics use kora hoyeche (`<h3>` tag `<td>` er vitore`).
-- Inline CSS styling diya simple, easily modifiable.
-- Image with alt text support.
-- Text styling for different parts (title, description, name, position).
-- Background color and padding diye visually attractive section.
+- Responsive layout that adapts from mobile to desktop screens.
+- Proper HTML semantics with headings correctly placed inside table cells.
+- Inline CSS styling for easy customization.
+- Support for profile images with alt text.
+- Styled text for titles, descriptions, and profile information.
+- Background color and padding to enhance visual appeal.
 
-## File Description
+## Files
 
 ### fixed.html
-- Interview section er updated HTML code.
-- Responsive CSS included with media queries.
-- Section title: *SUR VOTRE RÉGION*
-- Profile image and description text.
-- Disease info and advice related to fongicide program.
+- Contains the updated and fixed interview section HTML code.
+- Includes responsive CSS via media queries.
+- Section title: *SUR VOTRE RÉGION*.
+- Profile image and corresponding description text.
+- Informational text about disease control and fungicide programs.
 
 ## Usage
-1. `fixed.html` file ta apnar project e include korun jekhane apni interview/newsletter section dekhate chan.
-2. Image folder e apnar photo gula rakhben (e.g., `images/Thierry-Bailly.png`).
-3. Customize kore niben text, colors, ar images apnar proyojone.
+1. Include the `fixed.html` file in your project where you want to display the interview/newsletter section.
+2. Store images in the appropriate folder (e.g., `images/Thierry-Bailly.png`).
+3. Customize text, colors, and images as needed to fit your project.
 
 ## Author
 **Name:** Fahim Montasir Turza  
@@ -32,9 +32,9 @@ Ei code ta responsive design onujayi kaj kore, ar HTML structure clean kore toir
 **Contact:** turzacse@gmail.com
 
 ## License
-Ei project open-source ar kono restriction nei. Apni iccha moto use and modify korte paren.
+This project is open source and free to use and modify without restrictions.
 
 ---
 
-Thank you for using this fixed interview section HTML.  
-Jodi kono question thake, amar sathe contact korun.
+Thank you for using this fixed interview section HTML code.  
+If you have any questions, feel free to reach out.
